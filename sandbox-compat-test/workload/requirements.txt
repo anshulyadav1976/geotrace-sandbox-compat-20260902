@@ -1,0 +1,7 @@
+geoclip
+torch
+torchvision
+Pillow
+opencv-python-headless
+exifread
+pytesseract
